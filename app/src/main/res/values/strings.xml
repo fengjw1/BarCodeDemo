@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BarCodeDemo</string>
+    <string name="scan">扫码</string>
+</resources>
